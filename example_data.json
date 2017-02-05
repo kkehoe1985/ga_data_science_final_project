@@ -1,6 +1,6 @@
 {
 	"geometries":
-	{
+	[
 	{
 		"type": "MultiPolygon",
 		"properties": {
@@ -62569,5 +62569,4 @@
 			]
 		]
 	}	
-}
-}
+]}
